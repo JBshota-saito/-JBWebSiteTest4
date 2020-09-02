@@ -1317,10 +1317,6 @@ section.lazy-placeholder:after {
   box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
   transition: all .4s;
 }
-.cid-s09jG5BlEY .reverse {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
 .cid-s09jG5BlEY .reverse .timeline-text-content {
   margin-left: 2rem;
   margin-right: 0;
