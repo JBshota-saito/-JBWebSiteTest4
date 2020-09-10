@@ -3786,3 +3786,13 @@ section.lazy-placeholder:after {
 .cid-s072EUAmCs .media-container-row .mbr-text {
   color: #767676;
 }
+
+.timeline-Widget {
+  padding: 20px;
+  background-size: auto auto;
+  background-image: url("../../../assets/images/1-691x519.png");
+}
+
+.timeline-Tweet:hover {
+  background-image: url("../../../assets/images/1-691x519.png");
+}
